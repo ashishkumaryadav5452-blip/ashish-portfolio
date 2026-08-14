@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashishkumaryadav5452-blip.github.io/ashish-portfolio/sitemap.xml
