@@ -1,0 +1,16 @@
+ASHISH PORTFOLIO — FINAL UPDATE
+
+Upload/replace these 5 files in the ROOT of your GitHub Pages repository:
+
+1. index.html              -> replace your existing index.html
+2. ashish-profile.webp     -> your profile photo
+3. Ashish_Excel_Sales_Dashboard.xlsx
+4. Ashish_Expense_Tracker.xlsx
+5. Ashish_Data_Cleaning_Management.xlsx
+
+Do NOT delete style.css or script.js.
+
+After committing, wait a few minutes and refresh:
+https://ashishkumaryadav5452-blip.github.io/ashish-portfolio/
+
+The portfolio labels all three workbooks as SAMPLE PROJECTS using fictional data.
